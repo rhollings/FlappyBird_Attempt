@@ -11,7 +11,7 @@ width = 500
 height = 800
 
 screen = pygame.display.set_mode((500, 800))
-pygame.display.set_caption("Nappy")
+pygame.display.set_caption("Flappy Clone")
 
 #score
 font = pygame.font.SysFont('Bauhaus 93', 63)
