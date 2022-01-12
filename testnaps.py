@@ -7,6 +7,7 @@ pygame.init()
 clock = pygame.time.Clock()
 fps = 50
 
+#game window size
 width = 500
 height = 800
 
